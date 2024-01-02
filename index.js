@@ -21,3 +21,4 @@ pet.weight = parseInt(weight);
 
 console.log(pet);
 
+
